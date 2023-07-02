@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(221, 235, 243);
+    margin: 0;
+    text-align: center;
+
+}
+.main{
+    border: 6px solid  rgb(0, 255, 136);
+    height:auto;
+    text-align: center;
+}
+.pictures img{
+    margin-top: 20px;
+    width: 160px;
+    height: 160px;
+    border: 8px solid rgb(60, 17, 158);
+    border-radius: 20%;
+}
+h2{
+color: rgb(39, 185, 9);
+font-family: monospace;
+text-transform: uppercase;
+}
+b{
+    color: goldenrod;
+}
+.links{
+    display: block;
+    border: 5px solid brown;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    transition: 2s;
+}
+.links :hover{
+    border-radius: 20px 0px 20px 0px;
+    background-color: rgb(199, 156, 228);
+
+}
+ a{
+    color: rgb(59, 6, 129);
+  text-decoration: underline;
+ }
+ a :hover{
+    color: red;
+
+ }
+

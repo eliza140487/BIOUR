@@ -5,7 +5,7 @@ body{
 
 }
 .main{
-    border: 6px solid  rgb(0, 255, 136);
+    border: 10px solid  rgb(0, 255, 136);
     height:auto;
     text-align: center;
 }
@@ -13,11 +13,11 @@ body{
     margin-top: 20px;
     width: 160px;
     height: 160px;
-    border: 8px solid rgb(60, 17, 158);
+    border: 8px solid rgb(117, 6, 89);
     border-radius: 20%;
 }
 h2{
-color: rgb(39, 185, 9);
+color: rgb(26, 18, 129);
 font-family: monospace;
 text-transform: uppercase;
 }
@@ -34,10 +34,10 @@ b{
     margin-top: 10px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    transition: 2s;
+    transition: 3s;
 }
 .links :hover{
-    border-radius: 20px 0px 20px 0px;
+    border-radius: 200px 200px 200px 200px;
     background-color: rgb(199, 156, 228);
 
 }
@@ -47,6 +47,5 @@ b{
  }
  a :hover{
     color: red;
-
  }
 
